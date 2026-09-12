@@ -3,16 +3,18 @@
     "id": 1,
     "title": "عنوان رمان اول",
     "author": "نام نویسنده",
-    "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0O29wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0029wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
     "description": "توضیح کوتاه درباره رمان",
-    "category": "عاشقانه"
+    "category": "عاشقانه",
+    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0/novel1.pdf"
   },
   {
     "id": 2,
     "title": "عنوان رمان دوم",
     "author": "نام نویسنده",
-    "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0O29wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0029wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
     "description": "توضیح کوتاه درباره رمان",
-    "category": "جنایی"
+    "category": "جنایی",
+    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0/novel2.pdf"
   }
 ]
