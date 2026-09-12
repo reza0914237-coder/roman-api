@@ -6,7 +6,7 @@
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0029wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
     "description": "توضیح کوتاه درباره رمان",
     "category": "عاشقانه",
-    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0/novel1.pdf"
+    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.1/harryPotter1.pdf"
   },
   {
     "id": 2,
@@ -15,6 +15,6 @@
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch0SKYfJT3ubVrfYIbyzrV6r0029wmPW6AtNxXLo0XrvM_pdryoq7mg&s=10",
     "description": "توضیح کوتاه درباره رمان",
     "category": "جنایی",
-    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0/novel2.pdf"
+    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.1/harryPotter1.pdf"
   }
 ]
