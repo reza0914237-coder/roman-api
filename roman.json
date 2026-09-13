@@ -28,12 +28,12 @@
   },
   {
     "id": 4,
-    "title": "عنوان رمان دوم",
+    "title": "مزرعه حیوانات",
     "author": "نام نویسنده",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XAEsCPk2Mo5FDNjZMpmTzJxdKYiUR-mpF8TdqMQgAQ&s=10",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3zekPCaMgdIsGz1n0Bbwiryd3mqdnajm69H52yzFzg&s=10",
     "description": "توضیح کوتاه درباره رمان",
     "category": "جنایی",
-    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.1/harryPotter1.pdf"
+    "pdfUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.2/mazrae_heyvanat.pdf"
   },
   {
     "id": 5,
