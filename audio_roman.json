@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "شاهنامه فردوسی - رستم و سهراب",
+    "author": "ابوالقاسم فردوسی",
+    "narrator": "گوینده نمونه",
+    "coverUrl": "https://picsum.photos/400/400",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "contentType": "FREE",
+    "durationMinutes": 6,
+    "description": "فصل اول از داستان رستم و سهراب"
+  },
+  {
+    "id": 2,
+    "title": "بوف کور",
+    "author": "صادق هدایت",
+    "narrator": "راوی نمونه",
+    "coverUrl": "https://picsum.photos/401/401",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "contentType": "LOCKED",
+    "durationMinutes": 7,
+    "description": "نسخه ویژه رمان بوف کور"
+  }
+]
