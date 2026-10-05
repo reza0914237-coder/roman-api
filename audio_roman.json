@@ -2,8 +2,8 @@
   {
     "id": 1,
     "audioNovelId": 1,
-    "novelTitle": "شاهنامه فردوسی - رستم و سهراب",
-    "author": "ابوالقاسم فردوسی",
+    "novelTitle": "کوری",
+    "author": "اانتوان چخوف",
     "coverUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.3/kill-mina.webp",
     "chapterNumber": 1,
     "audioUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.5/koori_1ogg.ogg",
@@ -11,12 +11,22 @@
   },
   {
     "id": 2,
+    "audioNovelId": 1,
+    "novelTitle": "کوری",
+    "author": "اانتوان چخوف",
+    "coverUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.3/kill-mina.webp",
+    "chapterNumber": 1,
+    "audioUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.5/koori2.mp3",
+    "contentType": "FREE"
+  },
+  {
+    "id": 3,
     "audioNovelId": 2,
     "novelTitle": "بوف کور",
     "author": "صادق هدایت",
     "coverUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.3/kill-mina.webp",
     "chapterNumber": 1,
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "audioUrl": "https://github.com/reza0914237-coder/roman-api/releases/download/v1.0.0.5/koori2.mp3",
     "contentType": "LOCKED"
   }
 ]
